@@ -20,6 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 # Screenshots from Pages
 
 <p align="center",float = "left">
-  <img src="https://user-images.githubusercontent.com/70581331/224704491-3b0e2384-e705-4b48-b037-0fbbb0dd65ae.png" alt="Login Page"/>
-  <img src="https://user-images.githubusercontent.com/70581331/225835396-014d1667-a7bb-4375-9e55-0ae8bc927e51.png" alt="Login Page2"/>
+  <img src="https://user-images.githubusercontent.com/70581331/224704491-3b0e2384-e705-4b48-b037-0fbbb0dd65ae.png" alt="Login Page" width="400"/>
+  <img src="https://user-images.githubusercontent.com/70581331/225835396-014d1667-a7bb-4375-9e55-0ae8bc927e51.png" alt="Login Page2"width="400" />
 </p>
